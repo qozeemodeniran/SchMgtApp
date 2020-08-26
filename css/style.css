@@ -1,0 +1,65 @@
+body {
+    padding: 2%;
+    margin: 2%;
+    background: linear-gradient(to right, purple, gray);
+    color: #ffffff;
+    font-size: 150%;
+}
+
+div#intro {
+    text-align: center;
+}
+
+div#register {
+    background: grey;
+}
+
+h1 {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+}
+
+p#welcome {
+    display: inline-block;
+    background-color: green;
+}
+
+footer div {
+    text-align: center;
+}
+
+.half {
+    display: inline-block;
+    width: auto;
+    clear: both;
+    margin-left: 50px;
+}
+
+.one-third {
+    display: inline-block;
+}
+
+section h1 {
+    text-align: center;
+}
+
+section h2 {
+    text-align: center;
+    margin: 20px;
+}
+
+.subjects {
+    text-align: center;
+}
+
+div#greeting {
+    margin-top: 30px;
+}
+
+.add {
+    margin-left: 10px;
+}
